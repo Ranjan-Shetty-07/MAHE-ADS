@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1605179185 source:c:\users\user\desktop\ml_class\ads\assignment\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605203942 source:c:\users\user\desktop\ml_class\ads\assignment\linkedlist\testcases.c
+	<stdlib.h>
+	"LinkedListDataStructure.h"
+	<assert.h>
+
+1605202076 c:\users\user\desktop\ml_class\ads\assignment\linkedlist\linkedlistdatastructure.h
+	<stdint.h>
+
+1605203863 source:c:\users\user\desktop\ml_class\ads\assignment\linkedlist\llistimplementation.c
+	<stdlib.h>
+	"LinkedListDataStructure.h"
+	<assert.h>
+
